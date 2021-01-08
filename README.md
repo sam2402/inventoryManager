@@ -2,9 +2,9 @@
 
 ##### How to run Inventory Manager:
 - Fork this repository
-- run the commands below:
-`cd src`
-`gcc inventoryManager.c`
+- Run the commands below:
+`cd src`   
+`gcc inventoryManager.c`  
 `./a.out`
 - I have included a file called inventory.csv in the datastore directory that contains sample data.
 
