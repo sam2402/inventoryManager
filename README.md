@@ -1,8 +1,7 @@
 # Inventory Manager
 
 ##### How to run Inventory Manager:
-- Open the zip file.
-- Open the terminal and navigate to the unzipped directory.
+- Fork this repository
 - run the commands below:
 `cd src`
 `gcc inventoryManager.c`
