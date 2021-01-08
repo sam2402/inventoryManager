@@ -1,22 +1,4 @@
-// COMP0002 C Coursework
-// Samuel Lubrano Lavadera
-
-// Write a program to manage the inventory for a small business.
-// It should be possible to:
-// enter an item (name, barcode, price),
-// record the number in stock,
-// update the number in stock,
-// search for an item,
-// produce a report of all items in stock
-// delete an item.
-// The data should be stored in one or more files.
-
-// I have not copy and pasted any code from sources other than the phonebook example.
-// I have reference a variety of resources but haven't copied the code from any.
-// Some of the resources I have referenced are:
-// https://youtu.be/vDM2SktLUC4
-// https://www.tutorialspoint.com/c_standard_library/
-// https://www.programiz.com/c-programming/library-function
+// Samuel Lubrano Lavadera 2020
 
 #include <stdio.h>
 #include <stdbool.h>
