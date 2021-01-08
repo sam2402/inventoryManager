@@ -2,7 +2,7 @@
 
 ##### How to run Inventory Manager:
 - Fork this repository
-- Run the commands below:
+- Run the commands below:  
 `cd src`   
 `gcc inventoryManager.c`  
 `./a.out`
